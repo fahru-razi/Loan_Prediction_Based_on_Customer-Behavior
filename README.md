@@ -17,7 +17,7 @@ Bersumber dari Kaggle Dataset dengan judul [Loan Prediction Based on Customer Be
 ## Problem 
 Perusahaan melakukan sebagian proses Loan Approval secara manual dan dikerjakan dengan waktu yang cukup lama. Sehingga perusahaan perlu memiliki solusi untuk mengidentifikasi perilaku pelanggan yang cenderung berisiko gagal membayar pengembalian pinjaman untuk meningkatkan efisiensi dan efektivitas baik dalam tenaga kerja, waktu, dan juga cost.
 
-## Insight Summary dari [Exploratory Data Analysis](https://github.com/AlyaniNS/Loan-Prediction-Based-on-Customer-Behavior/tree/main/EDA)
+## Insight Summary dari [Exploratory Data Analysis](https://github.com/fahru-razi/Loan_Prediction_Based_on_Customer-Behavior/tree/88ecd0d6d35b4781219d74aa51784914acbc1c54/EDA)
 Dalam penentuan pemberian kredit kepada nasabah, dapat menerapkan prinsip analisa 5C yang meliputi Character (Watak), Capacity (Kemampuan), Capital (Modal), Condition (Kondisi), dan Collateral (Jaminan).
   - **Capacity**
 
